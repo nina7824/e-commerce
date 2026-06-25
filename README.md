@@ -78,9 +78,6 @@
 ![Cart Page Screenshot](images/cart-page.png)
 *Shopping cart overview with quantity controls and total calculations.*
 
-### 4. Contact Page
-![Contact Page Screenshot](images/contact-page.png)
-*Contact form and business information section.*
 
 ---
 
