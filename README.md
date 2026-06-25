@@ -136,28 +136,6 @@ e-commerce/
 │ └── contact-page.png
 └── [WordPress Files] # Website source files
 
-text
-
----
-
-## Evaluation Criteria
-
-| **Criteria** | **Marks** |
-|--------------|-----------|
-| Website Design & Creativity | 20 |
-| Product Pages & Content | 20 |
-| UI/UX & Navigation | 20 |
-| Cart Functionality | 15 |
-| GitHub Documentation (Markdown only) | 15 |
-| Repository Organization | 10 |
-| **Total** | **100** |
-
----
-
-## Declaration
-I hereby declare that this project is my original work and has not been plagiarized or copied from any source. All code, design, and content have been developed by me, with proper credits given to any resources used.
-
-**Student Signature**: ___________________
 
 **Date**: 27 June 2026
 
