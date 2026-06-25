@@ -3,7 +3,7 @@
 ## Student Information
 | **Field** | **Details** |
 |-----------|-------------|
-| **Student Name** | [Nina Umukundwa] |
+| **Student Name** | Nina Umukundwa |
 | **Student ID** | 23844/2024 |
 | **Course** | E-Commerce And Web Application Course (EWA408510) |
 | **Academic Year** | 2025-2026 \| Semester: II |
